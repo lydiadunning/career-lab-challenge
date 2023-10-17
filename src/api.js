@@ -35,7 +35,7 @@
  */
 export function searchArtworks(query) {
 	/**
-	 * Get data from `ARTWORKS_SEARCH_RESULT.json`, whuch is served by our
+	 * Get data from `ARTWORKS_SEARCH_RESULT.json`, which is served by our
 	 * local server.
 	 * TODO: replace with path to `/artworks/search/` endpoint,
 	 * as described in README.md.
